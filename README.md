@@ -22,8 +22,14 @@ The dataset used in this project is publicly available and can be accessed here:
 https://drive.google.com/drive/folders/1YruoRLRt1_TdGjuKICLGVYiHiJiPpg5l
 
 ## Screenshots
-![Dashboard Overview](screenshots/overview.png)
+![Dashboard Overview](https://github.com/Shivanand-0/nba-powerbi-analytics-dashboard/blob/main/screenshots/dashboard_overview.png)
 
+- Dashboard Overview after appling filter
+<img src="https://github.com/Shivanand-0/nba-powerbi-analytics-dashboard/blob/main/screenshots/applied_slices.png">
+
+![East vs West Wining Percentage](https://github.com/Shivanand-0/nba-powerbi-analytics-dashboard/blob/main/screenshots/east_vs_west_win%25.png)
+
+![Scoring Trend](https://github.com/Shivanand-0/nba-powerbi-analytics-dashboard/blob/main/screenshots/scoring_trend.png)
 ## Competition Context
 This project was developed as part of the **Statistella NBA Data Analytics Challenge (Round 1)**.
 
